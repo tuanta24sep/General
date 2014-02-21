@@ -1,0 +1,7 @@
+﻿NuGet:
+Install-Package NHibernate -Version 3.3.3.4001
+
+
+Links
+Build QR Scanner
+http://jonas.follesoe.no/2011/07/22/qr-code-scanning-on-windows-phone-75-using-zxlib/
