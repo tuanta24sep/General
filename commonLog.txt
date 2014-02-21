@@ -3,5 +3,23 @@ Install-Package NHibernate -Version 3.3.3.4001
 
 
 Links
+QRCode tutorial (technique)
+http://en.code-bude.net/2013/10/17/qrcoder-an-open-source-qr-code-generator-implementation-in-csharp/
 Build QR Scanner
 http://jonas.follesoe.no/2011/07/22/qr-code-scanning-on-windows-phone-75-using-zxlib/
+QRLib
+http://developer.nokia.com/community/wiki/Optical_Reader_Library_for_Windows_Phone_8
+Java Swing
+http://zetcode.com/tutorials/javaswingtutorial/
+Winstore
+http://winstore.vn/home/gioi-thieu-ve-he-thong-mua-ban-tren-windows-store-cua-microsoft/
+Blog PhamNguyen (Windows phone)
+http://phamnguyen.info/ung-dung-dng-local-database-v-mvvm-trong-windows-phone/
+Blog cione
+http://www.cione.com.vn/Videos/398/lay-tin-tuc-tu-dong-tu-cac-bao-dien-tu-bang-asp-net-phan-2
+HtmlQgilityPackage
+htmlagilitypack.codeplex.com/license
+Co tu lenh
+http://cotulenh.com/blog/du-luan-cong-dong-ve-mon-co-tu-lenh
+javascript
+http://spritely.net/
