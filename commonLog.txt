@@ -2,7 +2,11 @@
 Install-Package NHibernate -Version 3.3.3.4001
 
 
+
 Links
+Java VIDEO
+http://programming-simplified.com/
+
 QRCode tutorial (technique)
 http://en.code-bude.net/2013/10/17/qrcoder-an-open-source-qr-code-generator-implementation-in-csharp/
 Build QR Scanner
